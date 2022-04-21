@@ -31,7 +31,6 @@ This project is licensed under the GNU Lesser General Public License v3.0.
 ### Example Copyright Notice
 
 ```text
-
 Copyright (C) 2022 Hytride
 
 This file is part of Liguae.
